@@ -14,4 +14,26 @@ complete a lap *before* the sound<span class="underline">, your test is
 over.</span> The ~~test will begin~~ on **the** word start. ON YOUR
 MARK. Get ready\!… Start.
 
+# Example of a table.
+
+| *cOLUMN 1* | *cOLUMN 2* |
+| ---------- | ---------- |
+| data 11    | Data 12    |
+| data 21    | Data 22    |
+| data 31    | Data 32    |
+
+# Demonstration of converting Microsoft word document to a GitHub markdown file programmatically
+
+These are cross references:
+
+  - 1 Example of normal text along with subscript.
+
+  - 2 Example for list paragraphs
+
+  - 3 Example of bold and italics
+
+  - 4 Example of a table.
+
+  - 5 Example of embedding an image.
+
 ![](media/image1.jpeg)
