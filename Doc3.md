@@ -53,4 +53,4 @@ These are cross references:
 
   - 5 Example of embedding an image.
 
-![](media/image1.jpeg)
+![](/media/image1.jpeg)
