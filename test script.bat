@@ -2,8 +2,8 @@
 
 set /p str1=Enter name of file: 
 set curr_dir=%CD%
-set media_dir1=%CD%/pics1
-set media_dir2=%CD%/pics2
+set media_dir1=%CD%\pics1
+set media_dir2=%CD%\pics2
 
 echo %curr_dir%
 echo %media_dir1%
