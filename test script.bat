@@ -16,8 +16,9 @@ pandoc %str1% -f docx -t commonmark -o %str1:.docx=3.md% --extract-media=%meida_
 
 
 set /p message=Would you like to add a change description?:
-
+my.
 git add *
 git commit -m "script push"
+git push
 
 pause
