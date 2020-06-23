@@ -21,20 +21,24 @@ MARK. Get ready\!… Start.
 <tr class="header">
 <th><em>cOLUMN 1</em></th>
 <th><em>cOLUMN 2</em></th>
+<th><em>new column lmao</em></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>data 11</td>
 <td>Data 12</td>
+<td>Data 1a</td>
 </tr>
 <tr class="even">
 <td>data 21</td>
 <td>Data 22</td>
+<td>Daga</td>
 </tr>
 <tr class="odd">
 <td>data 31</td>
 <td>Data 32</td>
+<td>ddsas</td>
 </tr>
 </tbody>
 </table>

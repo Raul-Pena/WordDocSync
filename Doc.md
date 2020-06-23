@@ -16,11 +16,11 @@ MARK. Get ready\!… Start.
 
 # Example of a table.
 
-| *cOLUMN 1* | *cOLUMN 2* |
-| ---------- | ---------- |
-| data 11    | Data 12    |
-| data 21    | Data 22    |
-| data 31    | Data 32    |
+| *cOLUMN 1* | *cOLUMN 2* | *new column lmao* |
+| ---------- | ---------- | ----------------- |
+| data 11    | Data 12    | Data 1a           |
+| data 21    | Data 22    | Daga              |
+| data 31    | Data 32    | ddsas             |
 
 # Demonstration of converting Microsoft word document to a GitHub markdown file programmatically
 
