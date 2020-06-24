@@ -11,16 +11,14 @@ echo %media_dir2%
 
 echo %DIR%
 
-pandoc %str1% -f docx -t gfm -o %str1:.docx=.md% --extract-media=%meida_dir1%
+pandoc %str1% -f docx -t gfm -o %str1:.docx=.md% --extract-media=%media_dir1%
 
-pandoc %str1% -f docx -t commonmark -o %str1:.docx=3.md% --extract-media=%meida_dir1%
+pandoc %str1% -f docx -t commonmark -o %str1:.docx=3.md% --extract-media=%media_dir1%
 
 
 
-set /p message=Would you like to add a change description?:
-my.
+set /p message="Would you like to add a change description?: "
 git add *
 git commit -m "script push"
-git push
 
 pause
